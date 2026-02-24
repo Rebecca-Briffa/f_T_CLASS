@@ -35,8 +35,8 @@ To ensure the $f(T)$ logic is triggered correctly, you must set:
 - gauge: "synchronous"
 
 For detailed implementation examples, please refer to:
-- fT_example.py: For running f(T)-CLASS standalone.
-- example.yaml: For running runs within the Cobaya framework.
+- fT_example.py: For running f(T)-CLASS standalone using python.
+- fT-example.yaml: For running runs within the Cobaya framework.
 
 ---
 ## Using the code
