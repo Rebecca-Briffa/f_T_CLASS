@@ -40,6 +40,6 @@ For detailed implementation examples, please refer to:
 
 ---
 ## Using the code
-You can use f(T)-CLASS freely. If you use this code in your publications, please acknowledge its usage and cite the following:
+You can use f(T)-CLASS freely. If you use this code in your publications, please acknowledge its usage and also cite the following:
 - CLASS II: Approximation schemes – arXiv:1104.2933
 - Cobaya (if used): Please cite the pre-print arXiv:2005.05290 and its ASCL record, ascl:1910.019.
