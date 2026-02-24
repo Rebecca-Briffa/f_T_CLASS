@@ -10,7 +10,7 @@ This repository contains a modified version of the **CLASS** code, specifically 
 ##  Overview
 Standard CLASS (developed by Julien Lesgourgues and Thomas Tram) solves the evolution of linear perturbations in the Universe. **f(T)-CLASS** extends this functionality to:
 * **Background Evolution:** Solves the modified Friedmann equations for $f(T)$ models.
-* **Linear Perturbations:** Includes the specific contributions of teleparallel gravity to the Einstein-Boltzmann system.
+* **Linear Perturbations:** Includes the specific contributions of $f(T)$ teleparallel gravity to the Einstein-Boltzmann system.
 
 ---
 ##  Prerequisites
