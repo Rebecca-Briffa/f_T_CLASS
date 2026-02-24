@@ -1,7 +1,8 @@
 # f(T)-CLASS 
 **Cosmic Linear Anisotropy Solving System for Modified Teleparallel Gravity**
+Authors: Rebecca Briffa, Carlos Garcia Boiza, Jackson Said, Jurgen Mifsud, Mariam Bouhmadi López, Emmanuel Saridakis
 
-This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models - currently for the power law model $f(T) = -T + \alphaT^{\beta}$
+This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models - currently for the power law model $f(T) = -T + \alpha T^{\beta}$
 
 ---
 
@@ -11,5 +12,10 @@ Standard CLASS (developed by Julien Lesgourgues and Thomas Tram) solves the evol
 * **Linear Perturbations:** Includes the specific contributions of teleparallel gravity to the Einstein-Boltzmann system.
 
 ---
+##  Prerequisites
 
+To use this code, we highly suggest to first have the standard cosmology stack installed:
 
+1. **CLASS (Original):** Familiarity with the [official CLASS repository](https://github.com/lesgourg/class_public) is recommended.
+2. **Cobaya:** Install the Bayesian sampler [official Cobaya repository](https://github.com/CobayaSampler/cobaya).
+3. **f(T) CLASS** Download the code from the webpage and unpack the archive (tar -zxvf class_vx.y.z.tar.gz), or clone it. Go to the class directory (cd f_T_CLASS) and compile (make clean; make class).
