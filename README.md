@@ -29,10 +29,10 @@ To run the code with $f(T)$ gravity, you must define specific model parameters i
 In this implementation, the parameter param_b refers to the exponent $\beta$ in the power-law functional form. 
 
 To ensure the $f(T)$ logic is triggered correctly, you must set:
-Omega_Lambda: 0
-fluid_equation_of_state: "FT"
-param_b: b
-gauge: "synchronous"
+- Omega_Lambda: 0
+- fluid_equation_of_state: "FT"
+- param_b: b
+- gauge: "synchronous"
 
 For detailed implementation examples, please refer to:
 - fT_example.py: For running f(T)-CLASS standalone.
