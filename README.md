@@ -1,3 +1,19 @@
+# f(T)-CLASS 
+**Cosmic Linear Anisotropy Solving System for Modified Teleparallel Gravity**
+
+This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models.
+
+---
+
+## 🌌 Overview
+Standard CLASS (developed by Julien Lesgourgues and Thomas Tram) solves the evolution of linear perturbations in the Universe. **f(T)-CLASS** extends this functionality to:
+* **Background Evolution:** Solves the modified Friedmann equations for $f(T)$ models.
+* **Linear Perturbations:** Includes the specific contributions of teleparallel gravity to the Einstein-Boltzmann system.
+* **Model Selection:** Support for power-law, exponential, and other common $f(T)$ functional forms.
+
+---
+
+
 CLASS: Cosmic Linear Anisotropy Solving System  {#mainpage}
 ==============================================
 
