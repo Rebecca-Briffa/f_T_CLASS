@@ -1,5 +1,6 @@
 # f(T)-CLASS 
 **Cosmic Linear Anisotropy Solving System for Modified Teleparallel Gravity**
+
 Authors: Rebecca Briffa, Carlos Garcia Boiza, Jackson Said, Jurgen Mifsud, Mariam Bouhmadi López, Emmanuel Saridakis
 
 This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models - currently for the power law model $f(T) = -T + \alpha T^{\beta}$
