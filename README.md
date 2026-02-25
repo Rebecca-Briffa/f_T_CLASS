@@ -3,7 +3,7 @@
 
 Authors: Rebecca Briffa, Carlos Garcia Boiza, Jackson Said, Jurgen Mifsud, Mariam Bouhmadi López, Emmanuel Saridakis
 
-This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models - currently for the power law model $f(T) = -T + \alpha T^{\beta}$
+This repository contains a modified version of the **CLASS** code, specifically adapted to study cosmological evolution within the framework of **$f(T)$ gravity**. This version implements the background and linear perturbation equations for modified teleparallel gravity models - currently for the power law model $f(T) = -T + \alpha (-T)^{\beta}$
 
 ---
 
@@ -35,7 +35,8 @@ To ensure the $f(T)$ logic is triggered correctly, you must set:
 - gauge: "synchronous"
 
 For detailed implementation examples, please refer to:
-- fT_example.py: For running f(T)-CLASS standalone using python.
+- fT_explanotory.ini: For an explanation of what needs to be modified.
+- fT_example.py: For running f(T)-CLASS standalone using python
 - fT-example.yaml: For running runs within the Cobaya framework.
 
 ---
